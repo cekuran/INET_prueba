@@ -13,6 +13,5 @@
 *.scvd
 *.lnp
 *.lst
-*.s
 *.uvoptx
 *.map
